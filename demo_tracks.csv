@@ -1,0 +1,121 @@
+track_id,track_name,artist,genre,valence,energy,danceability,tempo,acousticness,instrumentalness,speechiness,loudness,popularity,source_type
+T001,Velvet Harbor,Iris Vale,folk,0.655,0.182,0.431,98.8,0.616,0.131,0.043,-14.22,30,synthetic
+T002,Paper Memory,Lena Marsh,ambient,0.138,0.193,0.372,81.2,0.639,0.058,0.061,-13.77,23,synthetic
+T003,Quiet Static,Ari Dorn,industrial,0.214,0.926,0.668,144.2,0.0,0.286,0.086,-3.77,50,synthetic
+T004,Faded Satellite,Odin Ibarra,sad pop,0.292,0.365,0.46,87.8,0.489,0.081,0.0,-11.64,51,synthetic
+T005,Neon Skyline,Sana Lund,singer-songwriter,0.563,0.332,0.495,89.2,0.75,0.151,0.04,-13.49,27,synthetic
+T006,Golden Tide,Kai Okoro,industrial,0.001,0.72,0.531,121.3,0.0,0.36,0.071,-4.7,72,synthetic
+T007,Distant Static,Kai Kapoor,rap,0.508,0.913,0.721,137.8,0.0,0.046,0.3,-7.12,18,synthetic
+T008,Paper Harbor,Iris Hale,shoegaze,0.303,0.298,0.525,111.7,0.59,0.483,0.052,-11.48,50,synthetic
+T009,Midnight Mirror,Iris Reyes,electropop,0.985,0.783,0.933,113.2,0.17,0.036,0.034,-5.23,33,synthetic
+T010,Violet Static,Odin Vale,piano ballad,0.336,0.276,0.258,83.6,0.666,0.182,0.0,-13.09,41,synthetic
+T011,Glass Garden,Kai Quill,acoustic,0.584,0.0,0.531,65.8,0.593,0.136,0.054,-15.74,33,synthetic
+T012,Velvet Skyline,Kai Quill,singer-songwriter,0.59,0.406,0.41,92.0,0.71,0.028,0.03,-11.86,32,synthetic
+T013,Distant Horizon,Teo Reyes,hip hop,0.68,0.759,0.721,125.8,0.0,0.001,0.27,-6.13,21,synthetic
+T014,Hollow Horizon,Iris Sato,industrial,0.247,0.837,0.504,147.4,0.0,0.257,0.048,-5.98,30,synthetic
+T015,Violet Signal,Mika Marsh,synth pop,0.806,0.67,0.796,121.4,0.316,0.082,0.06,-5.13,37,synthetic
+T016,Velvet Horizon,Iris Hale,shoegaze,0.414,0.362,0.404,108.9,0.294,0.251,0.054,-9.33,38,synthetic
+T017,Glass Memory,Iris Reyes,electropop,0.675,0.851,0.831,107.7,0.085,0.09,0.092,-3.96,20,synthetic
+T018,Midnight Satellite,Odin Lund,synth pop,0.845,0.719,0.697,127.7,0.129,0.0,0.104,-6.16,37,synthetic
+T019,Distant Signal,Kai Okoro,industrial,0.166,0.702,0.735,137.3,0.184,0.331,0.076,-4.48,67,synthetic
+T020,Soft Orbit,Lena Marsh,piano ballad,0.027,0.386,0.37,93.0,0.465,0.256,0.077,-10.56,79,synthetic
+T021,Electric Satellite,Kai Sato,sad pop,0.247,0.366,0.617,88.3,0.504,0.184,0.053,-12.79,81,synthetic
+T022,Neon Orbit,Odin Lund,dance pop,0.759,0.936,0.717,102.7,0.293,0.214,0.048,-8.41,52,synthetic
+T023,Midnight Pulse,Nova Frost,dark electronic,0.17,0.857,0.594,147.9,0.0,0.363,0.074,-3.24,86,synthetic
+T024,Distant Window,Sana Sato,acoustic,0.439,0.133,0.413,97.3,0.949,0.065,0.0,-16.56,28,synthetic
+T025,Paper Tide,Lena Kapoor,rap,0.507,0.759,0.605,133.6,0.0,0.087,0.346,-7.2,18,synthetic
+T026,Neon Tide,Iris Hale,indie electronic,0.431,0.272,0.409,97.6,0.41,0.261,0.061,-10.64,43,synthetic
+T027,Quiet Pulse,Zara Lund,rap,0.434,0.684,0.673,135.4,0.0,0.059,0.323,-6.38,76,synthetic
+T028,Paper Satellite,Kai Quill,singer-songwriter,0.541,0.263,0.529,120.4,0.902,0.043,0.069,-14.54,50,synthetic
+T029,Distant Echo,Sana Reyes,acoustic,0.591,0.412,0.51,87.0,0.787,0.097,0.0,-14.38,59,synthetic
+T030,Violet Mirror,Kai Sato,sad pop,0.203,0.278,0.427,89.9,0.426,0.049,0.041,-10.46,47,synthetic
+T031,Soft Garden,Iris Vale,acoustic,0.545,0.278,0.419,100.8,0.808,0.0,0.0,-14.02,33,synthetic
+T032,Midnight Static,Nova Ibarra,dream pop,0.473,0.412,0.517,112.0,0.377,0.304,0.042,-9.57,17,synthetic
+T033,Golden Satellite,Kai Okoro,dark electronic,0.334,0.831,0.762,136.5,0.225,0.311,0.088,-2.65,17,synthetic
+T034,Violet Skyline,Nova Frost,industrial,0.211,0.981,0.522,130.0,0.0,0.236,0.093,-4.21,33,synthetic
+T035,Midnight Memory,Sana Lund,singer-songwriter,0.694,0.2,0.368,86.6,0.677,0.104,0.032,-14.51,39,synthetic
+T036,Burning Memory,Iris Sato,dark electronic,0.017,0.816,0.491,128.0,0.214,0.372,0.058,-7.25,24,synthetic
+T037,Faded Signal,Iris Vale,folk,0.715,0.281,0.547,85.8,0.789,0.175,0.066,-13.68,43,synthetic
+T038,Soft Static,Nova Okoro,piano ballad,0.236,0.356,0.414,92.3,0.777,0.248,0.0,-12.48,5,synthetic
+T039,Hollow Skyline,Iris Sato,dark electronic,0.235,0.809,0.627,141.5,0.124,0.273,0.112,-6.71,57,synthetic
+T040,Paper Skyline,Iris Sato,dark electronic,0.264,0.796,0.742,120.8,0.0,0.165,0.055,-4.63,31,synthetic
+T041,Quiet Orbit,Teo Vale,trap,0.674,0.752,0.83,135.8,0.195,0.0,0.299,-6.17,42,synthetic
+T042,Soft Tide,Teo Reyes,hip hop,0.268,0.6,0.707,135.1,0.183,0.048,0.288,-4.47,38,synthetic
+T043,Neon Signal,Lena Marsh,sad pop,0.337,0.215,0.578,98.0,0.717,0.152,0.033,-12.31,75,synthetic
+T044,Hollow Static,Teo Reyes,rap,0.645,0.763,0.78,130.0,0.103,0.0,0.349,-5.45,87,synthetic
+T045,Quiet Skyline,Teo Ibarra,dance pop,0.819,0.655,0.907,132.0,0.07,0.039,0.0,-7.23,8,synthetic
+T046,Violet Weather,Sana Lund,acoustic,0.426,0.23,0.509,114.6,0.635,0.218,0.044,-13.38,28,synthetic
+T047,Quiet Signal,Mika Marsh,synth pop,0.852,0.651,0.856,138.4,0.121,0.0,0.056,-4.58,15,synthetic
+T048,Velvet Tide,Lena Kapoor,rap,0.56,0.852,0.662,140.6,0.0,0.0,0.339,-4.74,37,synthetic
+T049,Faded Horizon,Sana Sato,folk,0.574,0.277,0.409,91.2,0.973,0.007,0.0,-16.79,25,synthetic
+T050,Burning Skyline,Teo Reyes,hip hop,0.575,0.993,0.907,125.2,0.0,0.129,0.268,-7.98,57,synthetic
+T051,Quiet Window,Zara Lund,rap,0.382,0.809,0.776,128.7,0.103,0.056,0.319,-3.67,26,synthetic
+T052,Velvet Weather,Sana Lund,acoustic,0.679,0.36,0.489,85.0,0.762,0.117,0.034,-14.87,25,synthetic
+T053,Soft Horizon,Teo Kapoor,dream pop,0.434,0.294,0.458,98.0,0.339,0.109,0.0,-6.81,5,synthetic
+T054,Distant Orbit,Nova Frost,bass music,0.247,0.694,0.626,140.8,0.04,0.363,0.09,-4.0,69,synthetic
+T055,Golden Garden,Sana Sato,singer-songwriter,0.613,0.11,0.526,92.6,0.742,0.17,0.084,-11.31,27,synthetic
+T056,Glass Mirror,Sana Sato,acoustic,0.572,0.312,0.42,86.7,0.933,0.067,0.0,-13.33,8,synthetic
+T057,Burning Window,Odin Ibarra,ambient,0.044,0.323,0.477,92.3,0.409,0.14,0.062,-14.82,47,synthetic
+T058,Soft Echo,Nova Okoro,piano ballad,0.277,0.381,0.388,86.9,0.617,0.085,0.006,-13.41,12,synthetic
+T059,Silver Echo,Nova Okoro,piano ballad,0.16,0.447,0.391,108.4,0.611,0.293,0.051,-10.56,15,synthetic
+T060,Velvet Satellite,Mika Marsh,dance pop,0.828,0.877,0.709,113.0,0.154,0.015,0.076,-5.78,31,synthetic
+T061,Velvet Pulse,Kai Quill,acoustic,0.339,0.214,0.326,95.3,0.799,0.184,0.076,-13.7,47,synthetic
+T062,Glass Static,Sana Reyes,singer-songwriter,0.518,0.163,0.51,90.4,0.78,0.251,0.035,-13.38,34,synthetic
+T063,Silver Horizon,Mika Marsh,electropop,0.852,0.742,0.902,117.0,0.024,0.053,0.083,-4.83,45,synthetic
+T064,Midnight Tide,Juno Vale,synth pop,0.799,0.779,0.703,109.5,0.182,0.0,0.029,-5.64,8,synthetic
+T065,Glass Orbit,Nova Ibarra,shoegaze,0.468,0.278,0.391,118.2,0.557,0.236,0.029,-7.81,52,synthetic
+T066,Violet Harbor,Ari Dorn,dark electronic,0.307,0.873,0.669,142.2,0.0,0.288,0.075,-4.42,10,synthetic
+T067,Quiet Memory,Nova Ibarra,indie electronic,0.436,0.507,0.513,103.7,0.226,0.116,0.025,-10.08,49,synthetic
+T068,Distant Pulse,Teo Vale,hip hop,0.632,0.796,0.853,138.3,0.194,0.0,0.316,-4.91,57,synthetic
+T069,Electric Echo,Odin Lund,dance pop,0.911,0.775,0.718,121.5,0.226,0.0,0.033,-4.66,40,synthetic
+T070,Burning Tide,Zara Lund,rap,0.472,0.74,0.751,141.4,0.122,0.0,0.337,-3.63,40,synthetic
+T071,Silver Weather,Zara Lund,hip hop,0.613,0.736,0.745,126.4,0.155,0.126,0.298,-6.3,49,synthetic
+T072,Silver Mirror,Odin Vale,sad pop,0.231,0.398,0.307,106.1,0.485,0.21,0.0,-13.4,31,synthetic
+T073,Burning Signal,Sana Lund,folk,0.584,0.292,0.345,100.3,0.682,0.0,0.038,-13.87,59,synthetic
+T074,Faded Tide,Nova Frost,dark electronic,0.286,0.817,0.645,131.6,0.01,0.404,0.097,-2.4,40,synthetic
+T075,Hollow Weather,Teo Ibarra,synth pop,0.766,0.792,0.664,109.1,0.158,0.0,0.0,-4.32,17,synthetic
+T076,Paper Window,Teo Vale,rap,0.382,0.88,0.696,138.2,0.168,0.157,0.294,-5.44,67,synthetic
+T077,Soft Mirror,Kai Quill,acoustic,0.557,0.142,0.44,98.2,0.867,0.05,0.07,-12.26,11,synthetic
+T078,Soft Weather,Kai Sato,piano ballad,0.071,0.164,0.286,75.9,0.613,0.24,0.04,-15.39,61,synthetic
+T079,Faded Static,Sana Reyes,singer-songwriter,0.494,0.331,0.554,87.4,0.917,0.156,0.043,-15.14,43,synthetic
+T080,Electric Static,Kai Okoro,bass music,0.115,0.883,0.648,142.5,0.0,0.173,0.018,-6.68,21,synthetic
+T081,Distant Garden,Ari Dorn,industrial,0.19,0.825,0.662,151.8,0.0,0.281,0.085,-4.56,4,synthetic
+T082,Glass Harbor,Nova Ibarra,shoegaze,0.353,0.327,0.67,98.4,0.451,0.178,0.068,-9.42,32,synthetic
+T083,Golden Horizon,Juno Vale,dance pop,0.698,1.0,0.943,131.1,0.0,0.078,0.079,-4.84,41,synthetic
+T084,Violet Satellite,Kai Frost,indie electronic,0.327,0.272,0.514,117.6,0.369,0.241,0.049,-8.04,26,synthetic
+T085,Soft Harbor,Juno Vale,electropop,0.95,0.754,0.766,124.5,0.071,0.086,0.0,-6.74,7,synthetic
+T086,Midnight Orbit,Nova Okoro,ambient,0.234,0.208,0.346,101.8,0.535,0.187,0.0,-9.21,60,synthetic
+T087,Violet Memory,Ari Dorn,dark electronic,0.083,0.798,0.771,145.1,0.0,0.219,0.081,-6.82,36,synthetic
+T088,Hollow Garden,Teo Kapoor,indie electronic,0.468,0.422,0.609,111.7,0.393,0.367,0.004,-10.96,24,synthetic
+T089,Glass Skyline,Odin Vale,piano ballad,0.371,0.345,0.445,90.9,0.64,0.212,0.016,-10.68,54,synthetic
+T090,Quiet Harbor,Zara Lund,rap,0.368,0.885,0.686,140.1,0.099,0.0,0.291,-5.45,24,synthetic
+T091,Violet Tide,Teo Vale,rap,0.476,0.59,0.678,132.9,0.018,0.121,0.295,-4.07,39,synthetic
+T092,Silver Skyline,Ari Hale,shoegaze,0.317,0.403,0.461,102.4,0.47,0.293,0.08,-10.23,32,synthetic
+T093,Golden Pulse,Teo Kapoor,indie electronic,0.305,0.268,0.42,108.2,0.241,0.22,0.079,-10.53,34,synthetic
+T094,Neon Pulse,Ari Hale,shoegaze,0.459,0.423,0.701,120.0,0.248,0.227,0.0,-10.89,68,synthetic
+T095,Silver Pulse,Zara Lund,trap,0.429,0.712,0.933,137.4,0.206,0.0,0.294,-7.07,51,synthetic
+T096,Paper Weather,Teo Kapoor,shoegaze,0.664,0.359,0.459,98.5,0.424,0.34,0.037,-11.26,42,synthetic
+T097,Hollow Signal,Juno Okoro,industrial,0.118,0.87,0.718,140.1,0.209,0.369,0.105,-4.17,18,synthetic
+T098,Electric Signal,Odin Ibarra,piano ballad,0.189,0.275,0.445,79.7,0.642,0.303,0.054,-12.56,36,synthetic
+T099,Soft Skyline,Odin Lund,electropop,0.575,0.9,0.895,113.8,0.0,0.018,0.088,-2.8,31,synthetic
+T100,Soft Signal,Lena Marsh,ambient,0.134,0.336,0.289,101.5,0.583,0.173,0.11,-9.73,22,synthetic
+T101,Golden Memory,Kai Kapoor,rap,0.57,0.811,0.75,146.8,0.0,0.0,0.264,-6.54,20,synthetic
+T102,Violet Window,Kai Okoro,bass music,0.258,0.844,0.636,133.8,0.102,0.232,0.1,-3.37,38,synthetic
+T103,Burning Static,Nova Ibarra,shoegaze,0.534,0.227,0.535,106.9,0.279,0.134,0.042,-10.79,42,synthetic
+T104,Faded Mirror,Teo Vale,hip hop,0.632,1.0,0.703,146.5,0.129,0.0,0.313,-5.91,58,synthetic
+T105,Electric Weather,Nova Okoro,piano ballad,0.25,0.089,0.397,106.0,0.616,0.155,0.056,-10.66,15,synthetic
+T106,Electric Garden,Iris Hale,dream pop,0.413,0.434,0.638,97.1,0.321,0.312,0.053,-10.56,17,synthetic
+T107,Silver Garden,Ari Hale,shoegaze,0.449,0.384,0.527,116.3,0.361,0.302,0.0,-10.07,20,synthetic
+T108,Soft Satellite,Mika Marsh,dance pop,0.622,0.808,0.756,111.8,0.302,0.148,0.101,-5.12,57,synthetic
+T109,Paper Horizon,Ari Dorn,industrial,0.19,0.985,0.657,133.3,0.0,0.182,0.053,-5.54,60,synthetic
+T110,Glass Tide,Odin Vale,sad pop,0.168,0.28,0.361,85.4,0.683,0.17,0.06,-12.01,59,synthetic
+T111,Midnight Echo,Odin Lund,electropop,0.716,0.824,0.929,112.2,0.13,0.156,0.01,-7.42,26,synthetic
+T112,Quiet Garden,Odin Lund,synth pop,0.833,0.805,0.739,129.2,0.189,0.0,0.04,-4.68,12,synthetic
+T113,Glass Satellite,Teo Vale,hip hop,0.506,0.825,0.644,134.8,0.34,0.076,0.305,-6.66,3,synthetic
+T114,Midnight Window,Teo Kapoor,dream pop,0.374,0.289,0.595,107.1,0.408,0.11,0.068,-9.32,29,synthetic
+T115,Silver Satellite,Iris Hale,dream pop,0.394,0.447,0.581,106.2,0.392,0.254,0.04,-11.08,20,synthetic
+T116,Burning Harbor,Juno Vale,synth pop,0.871,0.866,0.831,126.5,0.136,0.173,0.057,-5.96,31,synthetic
+T117,Hollow Echo,Nova Frost,dark electronic,0.23,0.857,0.683,152.9,0.0,0.253,0.098,-7.37,54,synthetic
+T118,Midnight Harbor,Odin Vale,ambient,0.168,0.107,0.299,68.0,0.572,0.135,0.027,-10.38,28,synthetic
+T119,Neon Satellite,Juno Vale,synth pop,1.0,0.842,0.831,120.7,0.198,0.06,0.098,-6.28,36,synthetic
+T120,Golden Weather,Kai Frost,indie electronic,0.422,0.549,0.431,112.7,0.148,0.223,0.045,-9.12,60,synthetic
